@@ -195,10 +195,23 @@
   }
 
   .vr-desc {
-    min-width: 40ch;
+    width: 30ch;
   }
 
   .primary-heading {
-    font-size: 6.2rem;
+    font-size: 5.2rem;
+    padding: 4.8rem 2rem;
+  }
+
+  .secondary-heading {
+    font-size: 4rem;
+  }
+
+  .container.hero-text {
+    width: min(120rem, 100% - 3rem);
+  }
+
+  .creations-grid {
+    gap: 3rem;
   }
 }
