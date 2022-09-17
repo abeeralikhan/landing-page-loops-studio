@@ -199,7 +199,7 @@
   }
 
   .primary-heading {
-    font-size: 5.2rem;
+    font-size: 4.9rem;
     padding: 4.8rem 2rem;
   }
 
@@ -213,5 +213,9 @@
 
   .creations-grid {
     gap: 3rem;
+  }
+
+  .pd-tb {
+    padding-top: 10rem;
   }
 }
